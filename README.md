@@ -1,0 +1,1 @@
+# sfguide-customer-review-analytics-with-snowflake-cortex
