@@ -7,7 +7,7 @@
     |_| \__,_||___/ \__| \__, | |____/  \__, | \__|\___||___/
                           __/ |          __/ |               
                          |___/          |___/            
-Quickstart:   Tasty Bytes - Voice of Customer: Customer Reviews Analytics
+Quickstart:   Tasty Bytes : Customer Reviews Analytics
 Version:      v1
 Script:       tb_voc_setup.sql         
 Create Date:  2024-05-06
