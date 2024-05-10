@@ -7,7 +7,7 @@
     |_| \__,_||___/ \__| \__, | |____/  \__, | \__|\___||___/
                           __/ |          __/ |               
                          |___/          |___/            
-Quickstart:   Tasty Bytes : Customer Reviews Analytics
+Quickstart:   Customer Reviews Analytics using Snowflake Cortex
 Version:      v1
 Script:       tb_voc_setup.sql         
 Create Date:  2024-05-06
